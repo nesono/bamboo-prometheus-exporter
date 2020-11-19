@@ -87,7 +87,7 @@
         <bamboo.version>5.4.2</bamboo.version>
         <bamboo.data.version>${bamboo.version}</bamboo.data.version>
         <amps.version>6.3.21</amps.version>
-        <prometheus.version>0.5.0</prometheus.version>
+        <prometheus.version>0.9.0</prometheus.version>
         <useFastdevCli>false</useFastdevCli>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
